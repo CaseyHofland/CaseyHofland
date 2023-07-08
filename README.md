@@ -11,7 +11,7 @@ Hi ho! I'm a rigorous developer who focuses on building stable and reusable solu
 
 <br/>
 
-I won't lie: I'm stubborn. I like to do it right. I research before I implement, I overhaul when I discover improvements and it's not finished until it's documented. I love to focus on a single long-term system rather than juggle dozens of features. I give 3x my output solo-developing generic Unity systems for reusability, ease-of-use and other buzzwords (it's quality code is the point). But don't take my word for it: just browse some of my reusable packages and see for yourself!
+I won't lie: I'm stubborn. I like to do it right. I research before I implement, I overhaul when I discover improvements and it's not finished until it's documented. I love to focus on a single long-term system rather than juggle dozens of features. I give 3x my output solo-developing generic Unity systems for reusability, ease-of-use and other buzzwords (it's quality code is the point).
 
 <br/>
 
