@@ -1,21 +1,14 @@
-# Synopsis
-I hate technical debt.
+# Casey Hofland
 
-<br/>
-<br/>
-
-# I Game Develop
-hofland.casey@gmail.com - [@CaseyHofland](https://mastodon.gamedev.place/@CaseyHofland)
-
-Hi ho! I'm a rigorous developer who focuses on building stable and reusable solutions. I prefer a combination of Component-based and Pain Driven Development, ensuring quick results that are designed to be extended.
+I am a dedicated, driven and determined developer who focuses on building stable and reusable solutions. I prefer a combination of Component Based and Test Driven Development, ensuring results that are designed to be extended.
 
 <br/>
 
-I won't lie: I'm stubborn. I like to do it right. I research before I implement, I overhaul when I discover improvements and it's not finished until it's documented. I love to focus on a single long-term system rather than juggle dozens of features. I give 3x my output solo-developing generic Unity systems for reusability, ease-of-use and other buzzwords (it's quality code is the point).
+I have an honest devotion and passion towards durable, high quality code, and know when to invest more time to deliver something truly comprehensive.
 
 <br/>
 
-Find me alone in an empty room, and there's a good chance you'll walk in on me mulling over implementation details and browsing through the Unity Forums. Work ends, but creativity hits any time of the day. When it does, I'll be looking into APIs and documentation before the glare of the sun leaves my screen as it sets. Else, I regularly check up on upcoming Unity features and coding tricks to get ahead of the curve.
+Research before, overhaul during, update after. Technical debt arises from dependencies, so I design my systems as generic solutions that slot into existing frameworks. I love to focus on a single long-term system and give 3x my output developing for quality, reusability and ease-of-use.
 
 <br/>
 
